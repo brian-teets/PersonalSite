@@ -1,8 +1,23 @@
+/*
+coolors.co color palettes I might like:
+
+https://coolors.co/48acf0-594236-6f584b-93a3bc-ccdde2
+https://coolors.co/e8e9f3-cecece-a6a6a8-272635-b1e5f2
+https://coolors.co/cacfd6-d6e5e3-9fd8cb-517664-2d3319
+https://coolors.co/364652-071108-bfb1c1-b5bec6-c7dbe6
+https://coolors.co/6b6054-929487-a1b0ab-c3dac3-d5ecd4  - have used this palette previously
+https://coolors.co/0a2239-53a2be-1d84b5-132e32-176087  - blues / dark greens / white text color
+https://coolors.co/353535-3c6e71-ffffff-d9d9d9-284b63
+ */
+
 body {
-  background-color: wheat;
+  background-color: #284B63; /* palette: https://coolors.co/353535-3c6e71-ffffff-d9d9d9-284b63 */
+}
+
+.container {
+  background-color: #D9D9D9; /* palette: https://coolors.co/353535-3c6e71-ffffff-d9d9d9-284b63 */
 }
 
 #mainTitle {
-  color: navy;
   font-family: sans-serif;
 }
